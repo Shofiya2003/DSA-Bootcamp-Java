@@ -38,7 +38,7 @@
         - Linear Search 
         - Binary Search
         - Modified Binary Search
-        - (more later)
+        - Binary Search on 2D Arrays
     - Sorting
         - Insertion Sort
         - Selection Sort
@@ -165,6 +165,7 @@
     - Introduction
     - Theory
     - Priority Queue
+    - Heapsort
     - Two Heaps Method
     - k-way merge
     - Top k elements

@@ -35,6 +35,13 @@
 <<<<<<< HEAD:assignments/5-arrays.md
 5. [Jump Game](https://leetcode.com/problems/jump-game/)
 6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+<<<<<<< HEAD
 =======
 5. [Jump Game](https://leetcode.com/problems/jump-game/)(Revise)
 >>>>>>> efe72145f1ab3b914f5dcfcc56f023d42ee5eedf:assignments/arrays.md
+=======
+
+### Hard
+1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+2. [ First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+>>>>>>> afca0e5aa5285f7bd39536b7dd47af217f8a69ce
